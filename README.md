@@ -21,10 +21,10 @@ This project implements a semantic search engine for movie data using OpenSearch
 
 ## Setup
 
--Clone the repo
--Create a dot env file setting OPENSEARCH_INITIAL_ADMIN_PASSWORD to your initial password.
--Run docker-compose up -d to orchastrate the opensearch setup
--Explore exp.ipynb to check the usage and implementation of Search
+- Clone the repo
+- Create a dot env file setting OPENSEARCH_INITIAL_ADMIN_PASSWORD to your initial password.
+- Run docker-compose up -d to orchastrate the opensearch setup
+- Explore exp.ipynb to check the usage and implementation of Search
 
 ## How It Works
 
