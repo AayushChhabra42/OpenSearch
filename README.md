@@ -1,6 +1,3 @@
-Here's a sample `README.md` for your project that integrates semantic search with OpenSearch using Hugging Face embeddings:
-
----
 
 # Movie Semantic Search with OpenSearch
 
